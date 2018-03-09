@@ -1,4 +1,4 @@
-FROM siliconaxon/ruby:2.4-vendor
+FROM siliconaxon/ruby:2.4.3-vendor
 MAINTAINER Albert Tedja, albert@siliconaxon.com
 
 EXPOSE 9000
